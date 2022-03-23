@@ -1,4 +1,4 @@
-## Olá, eu sou Luís Eduardo, Trabalho com Desenvolvimento Web, Programas JS e sou Youtuber. É um prazer lhe conhecer
+## Hello, i'm Lewis Edward, currently i job with Web Develoment and Program JS
 <div align="center">
   <a href="https://github.com/L-EdwardBishop">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=L-EdwardBishop&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
